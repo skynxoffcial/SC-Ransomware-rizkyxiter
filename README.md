@@ -23,6 +23,6 @@ Tujuan: Edukasi & Prank Aman
 
 ```bash
 git clone https://github.com/skynxoffcial/SC-Ransomware-rizkyxiter
-cd rizkyxiter-ransomware
+cd SC-Ransomware-rizkyxiter
 chmod +x rizkyxiter-ransomware.sh
 bash rizkyxiter-ransomware.sh
