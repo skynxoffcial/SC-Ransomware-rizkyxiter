@@ -22,7 +22,7 @@ Tujuan: Edukasi & Prank Aman
 ## 🚀 Cara Pakai
 
 ```bash
-git clone https://github.com/USERNAME/rizkyxiter-ransomware
+git clone https://github.com/skynxoffcial/SC-Ransomware-rizkyxiter
 cd rizkyxiter-ransomware
 chmod +x rizkyxiter-ransomware.sh
 bash rizkyxiter-ransomware.sh
