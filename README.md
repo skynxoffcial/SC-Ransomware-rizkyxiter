@@ -12,7 +12,7 @@
 
 ```bash
 git clone https://github.com/youruser/rizkyxiter-ransomware-terminal
-cd rizkyxiter-ransomware-terminal
+cd SC-Ransomware-rizkyxiter
 chmod +x ransomware-prank.sh
 bash ransomware-prank.sh
 ```
